@@ -25,7 +25,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-This is a calculator like the one we have on our computer.
+This is a calculator like the one we have in our computer.
 
 ---
 
